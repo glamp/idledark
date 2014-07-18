@@ -2,4 +2,4 @@
 
 Like IDLE but dark.
 
-![idledark](./screenshot.png)
+![idledark](https://raw.githubusercontent.com/glamp/idledark/master/screenshot.png)
