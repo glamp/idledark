@@ -1,7 +1,7 @@
 {
   "name": "idledark",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Like IDLE but dark.",
   "repository": "https://github.com/glamp/idledark",
   "license": "MIT",
